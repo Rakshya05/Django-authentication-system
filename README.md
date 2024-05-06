@@ -16,7 +16,7 @@ source django/bin/activate
  ```
 Install necessary requirements
 ```bash
-pip install -r requirements
+pip install django
  ```
 To create new migrations based on the changes that have made to in Django models.
 ```bash
